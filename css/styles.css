@@ -27,12 +27,18 @@ font-size: 36px;
 }
 ul {
     padding: 0 4rem;
+    font-size: 20px;
 }
 #date {
     padding: 0 2% 2rem 2%;
     color:#FF0000;
     
     }
+#greeting{
+    padding: 1rem 3rem;
+    font-size: 20px;
+
+}
 
 footer {
     background-color: burlywood;
@@ -40,4 +46,5 @@ footer {
     padding: .1rem 2%;
     font-size: 18px;
     font-weight: bold;
+    margin: 0 auto;
 }
